@@ -1,0 +1,9 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+資料:https://www.youtube.com/watch?v=BQcjsW8ldkw&feature=youtu.be&fbclid=IwAR2SyS-JvJRbKnJ6wuFam3ubfNYVeRpUjiZ9JINEFx3jfFIF1Ee2cX58u1g
+
+UWA網址__
+
+本人Github網址__https://github.com/z1125411235/Custom-Cloud-shaders
+
+官方Github網址__
